@@ -9,7 +9,7 @@ Problems are grouped by difficulty.
 
 ### 🟢 Easy
 
-- [TwoSum.java](easy/TwoSum.java)
+- [TwoSum.java](src/easy/TwoSum.java)
 
 ### 🟡 Medium
 
