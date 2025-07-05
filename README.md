@@ -14,6 +14,7 @@ Problems are grouped by difficulty.
 ### 🟡 Medium
 
 - [Add Two Numbers](src/medium/AddTwoNumbers.java)
+- [Longest Substring Without Repeating Characters](src/medium/LongestSubstringWithoutRepeatingCharacters.java)
 
 ### 🔴 Hard
 
