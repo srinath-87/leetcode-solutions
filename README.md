@@ -13,7 +13,7 @@ Problems are grouped by difficulty.
 
 ### 🟡 Medium
 
-- (None yet)
+- [Add Two Numbers](src/medium/AddTwoNumbers.java)
 
 ### 🔴 Hard
 
