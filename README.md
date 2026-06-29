@@ -18,4 +18,4 @@ Problems are grouped by difficulty.
 
 ### 🔴 Hard
 
-- [Median of Two Sorted Arrays](src/medium/MedianOfTwoSortedArraysTest.java)
+- [Median of Two Sorted Arrays](src/hard/MedianofTwoSortedArrays.java)
