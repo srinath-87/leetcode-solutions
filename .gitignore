@@ -1,15 +1,15 @@
-# Eclipse
-.project
-.classpath
-.settings/
-
-# Compiled classes
-bin/
-
 # IntelliJ
 .idea/
 *.iml
 
-# OS
-.DS_Store
-Thumbs.db
+# Compiled output
+out/
+
+# Eclipse (if you still use it sometimes)
+.settings/
+.project
+.classpath
+bin/
+
+# Java
+*.class

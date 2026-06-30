@@ -26,7 +26,7 @@ public class MedianofTwoSortedArrays {
                     return Math.max(l1, l2);
                 }
             }
-            
+
             if (l1 > r2) {
                 high = partitionX - 1;
             } else {
@@ -34,5 +34,19 @@ public class MedianofTwoSortedArrays {
             }
         }
         return 0;
+    }
+
+    public static void main(String[] args) {
+        MedianofTwoSortedArrays median = new MedianofTwoSortedArrays();
+
+        System.out.println(median.findMedianSortedArrays(
+                new int[]{1, 3},
+                new int[]{2}
+        ));
+
+        System.out.println(median.findMedianSortedArrays(
+                new int[]{1, 2},
+                new int[]{3, 4}
+        ));
     }
 }
