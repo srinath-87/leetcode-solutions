@@ -17,6 +17,7 @@ Problems are grouped by difficulty.
 - [Longest Substring Without Repeating Characters](src/medium/LongestSubstringWithoutRepeatingCharacters.java)
 - [Longest Palindromic Substring](src/medium/LongestPalindromicSubstring.java)
 - [Zigzag Conversion](src/medium/ZigzagConversion.java)
+- [Reverse Integer](src/medium/ReverseInteger.java)
 
 ### 🔴 Hard
 
