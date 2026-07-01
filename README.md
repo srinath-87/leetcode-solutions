@@ -16,6 +16,7 @@ Problems are grouped by difficulty.
 - [Add Two Numbers](src/medium/AddTwoNumbers.java)
 - [Longest Substring Without Repeating Characters](src/medium/LongestSubstringWithoutRepeatingCharacters.java)
 - [Longest Palindromic Substring](src/medium/LongestPalindromicSubstring.java)
+- [Zigzag Conversion](src/medium/ZigzagConversion.java)
 
 ### 🔴 Hard
 
