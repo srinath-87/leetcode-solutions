@@ -18,6 +18,7 @@ Problems are grouped by difficulty.
 - [Longest Palindromic Substring](src/medium/LongestPalindromicSubstring.java)
 - [Zigzag Conversion](src/medium/ZigzagConversion.java)
 - [Reverse Integer](src/medium/ReverseInteger.java)
+- [String to Integer (atoi)](src/medium/StringToIntegerAtoi.java)
 
 ### 🔴 Hard
 
