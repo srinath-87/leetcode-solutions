@@ -19,6 +19,7 @@ Problems are grouped by difficulty.
 - [Zigzag Conversion](src/medium/ZigzagConversion.java)
 - [Reverse Integer](src/medium/ReverseInteger.java)
 - [String to Integer (atoi)](src/medium/StringToIntegerAtoi.java)
+- [Palindrome Number](src/easy/PalindromeNumber.java)
 
 ### 🔴 Hard
 
