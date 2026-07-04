@@ -10,6 +10,8 @@ Problems are grouped by difficulty.
 ### 🟢 Easy
 
 - [TwoSum.java](src/easy/TwoSum.java)
+- [Palindrome Number](src/easy/PalindromeNumber.java)
+- [Sqrt(x)](src/easy/SqrtX.java)
 
 ### 🟡 Medium
 
@@ -19,7 +21,6 @@ Problems are grouped by difficulty.
 - [Zigzag Conversion](src/medium/ZigzagConversion.java)
 - [Reverse Integer](src/medium/ReverseInteger.java)
 - [String to Integer (atoi)](src/medium/StringToIntegerAtoi.java)
-- [Palindrome Number](src/easy/PalindromeNumber.java)
 
 ### 🔴 Hard
 
