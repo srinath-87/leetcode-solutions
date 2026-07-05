@@ -12,6 +12,7 @@ Problems are grouped by difficulty.
 - [TwoSum.java](src/easy/TwoSum.java)
 - [Palindrome Number](src/easy/PalindromeNumber.java)
 - [Sqrt(x)](src/easy/SqrtX.java)
+- [Plus One](src/easy/PlusOne.java)
 
 ### 🟡 Medium
 
