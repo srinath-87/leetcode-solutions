@@ -13,6 +13,7 @@ Problems are grouped by difficulty.
 - [Palindrome Number](src/easy/PalindromeNumber.java)
 - [Sqrt(x)](src/easy/SqrtX.java)
 - [Plus One](src/easy/PlusOne.java)
+- [Remove Duplicates from Sorted Array](src/easy/RemoveDuplicatesFromSortedArray.java)
 
 ### 🟡 Medium
 
