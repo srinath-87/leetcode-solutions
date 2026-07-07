@@ -14,6 +14,7 @@ Problems are grouped by difficulty.
 - [Sqrt(x)](src/easy/SqrtX.java)
 - [Plus One](src/easy/PlusOne.java)
 - [Remove Duplicates from Sorted Array](src/easy/RemoveDuplicatesFromSortedArray.java)
+- [Remove Element](src/easy/RemoveElement.java)
 
 ### 🟡 Medium
 
