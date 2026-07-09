@@ -16,6 +16,7 @@ Problems are grouped by difficulty.
 - [Remove Duplicates from Sorted Array](src/easy/RemoveDuplicatesFromSortedArray.java)
 - [Remove Element](src/easy/RemoveElement.java)
 - [Length of Last Word](src/easy/LengthOfLastWord.java)
+- [Search Insert Position](src/easy/SearchInsertPosition.java)
 
 ### 🟡 Medium
 
