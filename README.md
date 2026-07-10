@@ -17,6 +17,7 @@ Problems are grouped by difficulty.
 - [Remove Element](src/easy/RemoveElement.java)
 - [Length of Last Word](src/easy/LengthOfLastWord.java)
 - [Search Insert Position](src/easy/SearchInsertPosition.java)
+- [Roman to Integer](src/easy/RomanToInteger.java)
 
 ### 🟡 Medium
 
