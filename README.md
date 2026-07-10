@@ -27,6 +27,7 @@ Problems are grouped by difficulty.
 - [Reverse Integer](src/medium/ReverseInteger.java)
 - [String to Integer (atoi)](src/medium/StringToIntegerAtoi.java)
 - [Container With Most Water](src/medium/ContainerWithMostWater.java)
+- [Integer to Roman](src/medium/IntegerToRoman.java)
 
 ### 🔴 Hard
 
