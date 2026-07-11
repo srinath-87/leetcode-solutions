@@ -18,6 +18,7 @@ Problems are grouped by difficulty.
 - [Length of Last Word](src/easy/LengthOfLastWord.java)
 - [Search Insert Position](src/easy/SearchInsertPosition.java)
 - [Roman to Integer](src/easy/RomanToInteger.java)
+- [Longest Common Prefix](src/easy/LongestCommonPrefix.java)
 
 ### 🟡 Medium
 
