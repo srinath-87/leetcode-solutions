@@ -30,6 +30,7 @@ Problems are grouped by difficulty.
 - [String to Integer (atoi)](src/medium/StringToIntegerAtoi.java)
 - [Container With Most Water](src/medium/ContainerWithMostWater.java)
 - [Integer to Roman](src/medium/IntegerToRoman.java)
+- [3Sum](src/medium/ThreeSum.java)
 
 ### 🔴 Hard
 
