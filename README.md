@@ -31,6 +31,7 @@ Problems are grouped by difficulty.
 - [Container With Most Water](src/medium/ContainerWithMostWater.java)
 - [Integer to Roman](src/medium/IntegerToRoman.java)
 - [3Sum](src/medium/ThreeSum.java)
+- [3Sum Closest](src/medium/ThreeSumClosest.java)
 
 ### 🔴 Hard
 
