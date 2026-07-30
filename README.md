@@ -32,6 +32,7 @@ Problems are grouped by difficulty.
 - [Integer to Roman](src/medium/IntegerToRoman.java)
 - [3Sum](src/medium/ThreeSum.java)
 - [3Sum Closest](src/medium/ThreeSumClosest.java)
+- [Letter Combinations of a Phone Number](src/medium/LetterCombinationsOfPhoneNumber.java)
 
 ### 🔴 Hard
 
