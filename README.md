@@ -19,6 +19,7 @@ Problems are grouped by difficulty.
 - [Search Insert Position](src/easy/SearchInsertPosition.java)
 - [Roman to Integer](src/easy/RomanToInteger.java)
 - [Longest Common Prefix](src/easy/LongestCommonPrefix.java)
+- [Valid Parentheses](src/easy/ValidParentheses.java)
 
 ### 🟡 Medium
 
