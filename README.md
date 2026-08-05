@@ -34,6 +34,7 @@ Problems are grouped by difficulty.
 - [3Sum](src/medium/ThreeSum.java)
 - [3Sum Closest](src/medium/ThreeSumClosest.java)
 - [Letter Combinations of a Phone Number](src/medium/LetterCombinationsOfPhoneNumber.java)
+- [4Sum](src/medium/FourSum.java)
 
 ### 🔴 Hard
 
